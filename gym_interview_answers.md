@@ -162,5 +162,3 @@
 
 ---
 
-
-5. **Admit Growth Areas**: It's okay to say "This was a learning project, and in a production system I would also consider..."

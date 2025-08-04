@@ -162,14 +162,5 @@
 
 ---
 
-## **Key Tips for Interview Success:**
-
-1. **Be Honest**: If you haven't implemented something complex, explain what you would do or how you would learn it.
-
-2. **Show Learning Mindset**: Mention what you learned from the project and what you would improve.
-
-3. **Connect to Real Benefits**: Always tie technical decisions back to business value (like "reduced processing time").
-
-4. **Prepare Examples**: Have specific examples ready for each major component you implemented.
 
 5. **Admit Growth Areas**: It's okay to say "This was a learning project, and in a production system I would also consider..."
